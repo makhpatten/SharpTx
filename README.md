@@ -1,5 +1,5 @@
 # SharpTx
-Code to implement SharpTx
+Code to implement SharpTx<br><br>
 This code is provided as an example of a coding project, implemented by Mark Patten c. 2018<br>
 (Originally from a work project, sanitized to remove project names and sensitive information)<br>
 C code implemented on a PIC 18LF2520 microcontroller, and compiled using the CCS library of PIC functions<br>
